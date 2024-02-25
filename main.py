@@ -52,4 +52,3 @@ if __name__ == '__main__':
             print(shorten_link(api_key, new_url))
         except requests.exceptions.HTTPError:
             print('Неверный адрес ссылки')
-
