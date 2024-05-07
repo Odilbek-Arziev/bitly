@@ -1,11 +1,11 @@
+
+
 import os
 import requests
 from dotenv import load_dotenv
 import argparse
 
 load_dotenv()
-
-
 
 def shorten_link(token, url):
     response = requests.post(
