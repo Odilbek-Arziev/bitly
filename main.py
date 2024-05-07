@@ -1,3 +1,5 @@
+#Это изменение от Шмонова Дмитрия
+
 import os
 import requests
 from dotenv import load_dotenv
