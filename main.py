@@ -53,6 +53,3 @@ if __name__ == '__main__':
         except requests.exceptions.HTTPError:
             print('Неверный адрес ссылки')
 
-
-
-
